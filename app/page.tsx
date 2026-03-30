@@ -1,5 +1,11 @@
+import { Metadata } from 'next';
 import Link from 'next/link';
 import React from 'react';
+
+export const metadata: Metadata = {
+  title: "Exam Simulation",
+  description: "Exam Simulation",
+};
 
 export default function Home() {
   const subjects = [
