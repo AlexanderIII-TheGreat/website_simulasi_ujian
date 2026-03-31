@@ -36,6 +36,34 @@ export default function Home() {
       shadow: 'shadow-cyan-500/30',
       href: '/pjok',
     },
+    {
+      id: 'ppkn',
+      title: 'PPKN',
+      icon: '🏛️',
+      description: 'Uji pemahamanmu mengenai wawasan kebangsaan.',
+      color: 'from-purple-500 to-purple-600',
+      shadow: 'shadow-purple-500/30',
+      href: '/ppkn',
+    },
+    {
+      id: 'matematika',
+      title: 'Matematika',
+      icon: '📐',
+      description: 'Uji kemampuanmu mengenai wawasan kebangsaan.',
+      color: 'from-purple-500 to-purple-600',
+      shadow: 'shadow-purple-500/30',
+      href: '/matematika',
+    },
+        {
+      id: 'Sejarah',
+      title: 'Sejarah',
+      icon: '🏛️',
+      description: 'Uji kemampuanmu mengenai wawasan sejarah.',
+      color: 'from-purple-500 to-purple-600',
+      shadow: 'shadow-purple-500/30',
+      href: '/sejarah',
+    },
+
   ];
 
   return (
