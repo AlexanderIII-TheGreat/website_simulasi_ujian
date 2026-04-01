@@ -63,6 +63,33 @@ export default function Home() {
       shadow: 'shadow-purple-500/30',
       href: '/sejarah',
     },
+    {
+      id: 'informatika',
+      title: 'Informatika',
+      icon: '💻',
+      description: 'Uji kemampuanmu mengenai wawasan informatika.',
+      color: 'from-purple-500 to-purple-600',
+      shadow: 'shadow-purple-500/30',
+      href: '/informatika',
+    },
+    {
+      id: 'bahasainggris',
+      title: 'Bahasa Inggris',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah kebahasaanmu.',
+      color: 'from-blue-500 to-blue-600',
+      shadow: 'shadow-blue-500/30',
+      href: '/bahasainggris',
+    },
+    {
+      id: 'Pendidikan Agama Islam',
+      title: 'Pendidikan Agama Islam',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah keagamaanmu.',
+      color: 'from-blue-500 to-blue-600',
+      shadow: 'shadow-blue-500/30',
+      href: '/pai',
+    },
 
   ];
 
