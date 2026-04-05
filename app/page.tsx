@@ -90,6 +90,33 @@ export default function Home() {
       shadow: 'shadow-blue-500/30',
       href: '/pai',
     },
+    {
+      id: 'bahasa jawa',
+      title: 'Bahasa Jawa',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah kebahasaanmu.',
+      color: 'from-blue-500 to-blue-600',
+      shadow: 'shadow-blue-500/30',
+      href: '/jawa',
+    },
+    {
+      id: 'ipas',
+      title: 'IPAS',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah keilmuanmu.',
+      color: 'from-green-500 to-green-600',
+      shadow: 'shadow-green-500/30',
+      href: '/ipas',
+    },
+    {
+      id: 'Konsentrasi Keahlian TJKT',
+      title: 'Konsentrasi Keahlian TJKT',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah keilmuanmu.',
+      color: 'from-green-500 to-green-600',
+      shadow: 'shadow-green-500/30',
+      href: '/konsentrasi',
+    },
 
   ];
 
