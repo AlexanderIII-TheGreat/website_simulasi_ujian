@@ -117,7 +117,33 @@ export default function Home() {
       shadow: 'shadow-green-500/30',
       href: '/konsentrasi',
     },
-
+    {
+      id: 'Produk Kreatif dan Kewirausahaan',
+      title: 'Produk Kreatif dan Kewirausahaan',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah keilmuanmu.',
+      color: 'from-green-500 to-green-600',
+      shadow: 'shadow-green-500/30',
+      href: '/pkk',
+    },
+    {
+      id: 'Dasar Program Keahlian TJKT',
+      title: 'Dasar Program Keahlian TJKT',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah keilmuanmu.',
+      color: 'from-green-500 to-green-600',
+      shadow: 'shadow-green-500/30',
+      href: '/dpk',
+    },
+    {
+      id: 'Mapel Pilihan TJKT',
+      title: 'Mapel Pilihan TJKT',
+      icon: '📚',
+      description: 'Uji kemampuan literasi dan pemahaman kaidah keilmuanmu.',
+      color: 'from-green-500 to-green-600',
+      shadow: 'shadow-green-500/30',
+      href: '/mptjkt',
+    },
   ];
 
   return (
